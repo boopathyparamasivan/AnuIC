@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AnuIC_Example' do
+  pod 'AnuIC', :path => '../'
+
+  target 'AnuIC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
