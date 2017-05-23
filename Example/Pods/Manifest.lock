@@ -1,0 +1,16 @@
+PODS:
+  - AnuIC (0.1.0)
+
+DEPENDENCIES:
+  - AnuIC (from `../`)
+
+EXTERNAL SOURCES:
+  AnuIC:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AnuIC: 9e7254b19208fa2cad101f0f5cc720f4fa154b5f
+
+PODFILE CHECKSUM: 3dc198066bad652ded05e7bedd0b67070c9d5d20
+
+COCOAPODS: 1.2.1

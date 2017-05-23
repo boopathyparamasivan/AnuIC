@@ -1,0 +1,6 @@
+framework module AnuIC {
+  umbrella header "AnuIC-umbrella.h"
+
+  export *
+  module * { export * }
+}
